@@ -1,0 +1,3 @@
+Name: Susan Meyers, ID Number: 47899, Department: Acounting, Job Title: Vice President 
+Name: Mark Jones, ID Number: 39119, Department: IT, Job Title: Programmer 
+Name: Joy Rogers, ID Number: 81774, Department: Manufacturing, Job Title: Engineer 
